@@ -27,4 +27,4 @@ Scikit-learn
 XGBoost
 
 📁 Dataset:
-A telecom customer churn dataset (uploaded in the repository)
+A telecom customer churn dataset (created using Numpy in collab)
